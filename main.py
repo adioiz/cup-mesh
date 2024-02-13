@@ -85,4 +85,5 @@ def main():
     plt.subplot(133), plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB)), plt.plot(x, y, 'r-', linewidth=2), plt.title('Cup curve')
     plt.show()
 
-
+if __name__ == '__main__':
+    main()
