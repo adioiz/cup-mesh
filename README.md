@@ -25,7 +25,7 @@ Ensure you have Python installed on your system. This script has been tested wit
 First, clone this repository or download the script to your local machine. Then, navigate to the script's directory in your terminal and install the required Python packages using pip:
 
 ```bash
-pip install -r requiremnts.txt
+pip install -r requirements.txt
 ```
 ### Run script
 
